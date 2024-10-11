@@ -1,6 +1,3 @@
-Hi 👋 My name is Gilberto Theves
-================================
-
 QA engineer
 -----------
 
